@@ -1,4 +1,4 @@
 {
-  "latest": "4.0",
-  "updateurl": "https://cdn.discordapp.com/attachments/535447222930767883/726045292142788698/AdminTools.luac"
+  "latest": "4.1",
+  "updateurl": "https://cdn.discordapp.com/attachments/535447222930767883/726081453842235392/AdminTools.luac"
 }
